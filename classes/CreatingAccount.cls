@@ -3,7 +3,7 @@ public Class CreatingAccount
 public Account createAccount(String name)  // Creating method
 {
 
-// This is a demo run2
+// This is a demo for Bay area group
 Account acc = new Account(); 
 acc.Name = name;
 return acc;
