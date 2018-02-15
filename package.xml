@@ -3,6 +3,11 @@
     <version>40.0</version>
     <types>
         <members>Account.Do_they_have_AutoRABIT__c</members>
+        <members>ClientName__c.TestCheckbox__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>ClientName__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
