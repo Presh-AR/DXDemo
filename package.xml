@@ -14,6 +14,11 @@
     </types>
     <types>
         <members>ClientName__c</members>
+        <members>DoneUntill__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DoneUntill__c-DoneUntill Layout</members>
+        <name>Layout</name>
     </types>
 </Package>
