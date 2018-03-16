@@ -32,4 +32,10 @@
         <trackHistory>false</trackHistory>
         <type>Checkbox</type>
     </fields>
+    <validationRules>
+        <fullName>Active_cannot_be_unchecked</fullName>
+        <active>true</active>
+        <errorConditionFormula>ispickval(Active__c, &quot;true&quot;)</errorConditionFormula>
+        <errorMessage>Active needs to be true</errorMessage>
+    </validationRules>
 </CustomObject>
