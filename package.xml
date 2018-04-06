@@ -4,6 +4,7 @@
     <types>
         <members>Account.Do_they_have_AutoRABIT__c</members>
         <members>ClientName__c.TestCheckbox__c</members>
+        <members>TDX_Demo_Object__c.IsthisaCheckbox__c</members>
         <name>CustomField</name>
     </types>
     <types>
