@@ -89,7 +89,7 @@
 			"nFORCE__Toolbar__c": "",
 			"IsDeleted": "",
 			"nFORCE__Icon_Class__c": "n-icon-relationship",
-			"nFORCE__Is_Hidden__c": "false",
+			"nFORCE__Is_Hidden__c": "true",
 			"nFORCE__Group__c": "",
 			"LastViewedDate": "",
 			"nPortal__Search_Object_Filter__c": "",
