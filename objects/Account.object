@@ -3,7 +3,7 @@
     <fields>
         <fullName>Do_they_have_AutoRABIT__c</fullName>
         <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>Do they have AutoRABIT</label>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
